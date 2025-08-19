@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/api.ts","./src/config.ts","./src/main.tsx","./src/theme.ts","./src/vite-env.d.ts","./src/components/featurecard.tsx","./src/pages/asl.tsx","./src/pages/home.tsx","./src/pages/isl.tsx","./src/pages/isldynamic.tsx","./src/pages/islstatic.tsx"],"version":"5.8.3"}

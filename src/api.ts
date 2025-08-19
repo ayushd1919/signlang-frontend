@@ -1,7 +1,6 @@
+// src/api.ts
 const API_BASE =
-  (import.meta as any).env?.VITE_API_BASE ??
-  (process.env as any)?.REACT_APP_API_BASE ??
-  "http://localhost:8000"; // local fallback
+  import.meta.env.VITE_API_BASE ?? "http://localhost:8000";
 
 export type PredictResponse = { label: string; score: number };
 
